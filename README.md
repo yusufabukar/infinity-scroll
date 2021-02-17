@@ -1,3 +1,10 @@
 # Infinity Scroll
 
-* Scroll endlessly through photos pulled from the <a href='https://source.unsplash.com/' target='_blank'>Unsplash API</a>.
+* Scroll endlessly through awe-inspiring photos.
+* NB: Don't spend too long scrolling as the API is rate-limited.
+
+## Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
